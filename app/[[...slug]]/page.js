@@ -1,4 +1,4 @@
-import { sdk } from "@commercetools/sdk";
+import { sdk } from "../../sdk-temp";
 
 //import { PageRenderer } from "@components-frontend/react";
 import { PageRenderer } from "components/renderer";
